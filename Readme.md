@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **CNN**
 
-- 🤝 I’m looking for help with ***Spam alert system to develop a crowd-sourcing based solution**
+- 🤝 I’m looking for help with **Spam alert system to develop a crowd-sourcing based solution**
 
 - 👨‍💻 All of my projects are available at [https://arjunghosh561.github.io/Portfolio.github.io/](https://arjunghosh561.github.io/Portfolio.github.io/)
 
