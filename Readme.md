@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **indows, Neural networks, React, Python, Networking**
 
-- 📫 How to reach me ***ghosharjun561@gmail.com**
+- 📫 How to reach me **ghosharjun561@gmail.com**
 
 - ⚡ Fun fact **I like to play Rainbow six-seige**
 
