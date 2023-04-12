@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://arjunghosh561.github.io/Portfolio.github.io/](https://arjunghosh561.github.io/Portfolio.github.io/)
 
-- 💬 Ask me about **indows, Neural networks, React, Python, Networking**
+- 💬 Ask me about **windows, Neural networks, React, Python, Networking**
 
 - 📫 How to reach me **ghosharjun561@gmail.com**
 
