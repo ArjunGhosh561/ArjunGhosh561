@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **Image Forensics using Tensorflow**
 
-- 👯 I’m looking to collaborate on **CNN**
+- 👯 I’m looking to collaborate on **Convolutional Neural Network**
 
 - 🤝 I’m looking for help with **Spam alert system to develop a crowd-sourcing based solution**
 
 - 👨‍💻 All of my projects are available at [https://arjunghosh561.github.io/Portfolio.github.io/](https://arjunghosh561.github.io/Portfolio.github.io/)
 
-- 💬 Ask me about **windows, Neural networks, React, Python, Networking**
+- 💬 Ask me about **C++ Language,DSA, Neural networks, React, Python, Networking**
 
 - 📫 How to reach me **ghosharjun561@gmail.com**
 
