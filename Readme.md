@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arjunghosh561" alt="arjunghosh561" /></a> </p>
 
- - 🔭 I’m currently working on [Churn Rate PredictioN](https://github.com/ArjunGhosh561/Customer-Churn_rate-prediction-using-Deep-Neural-Networks)
+ - 🔭 I’m currently working on a [Churn Rate Prediction mode](https://github.com/ArjunGhosh561/Customer-Churn_rate-prediction-using-Deep-Neural-Networks)
 
 - 🤝 I’m looking for help with **Spam alert system to develop a crowd-sourcing based solution**
 
