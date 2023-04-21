@@ -15,7 +15,7 @@
 
 <!-- - 📫 How to reach me **ghosharjun561@gmail.com** -->
 
-- ⚡ Fun fact **I like to play Rainbow six-seige**
+- ⚡ Fun fact **I love Competetive Coding...So feel free to connect**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
