@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arjunghosh561" alt="arjunghosh561" /></a> </p>
 
-- 🔭 I’m currently working on **Image Forensics using Tensorflow**
-
-- 👯 I’m looking to collaborate on **Convolutional Neural Network**
+- 🔭 I’m currently working on **Convolutional Neural Network**
 
 - 🤝 I’m looking for help with **Spam alert system to develop a crowd-sourcing based solution**
 
