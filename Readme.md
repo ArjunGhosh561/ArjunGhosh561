@@ -7,8 +7,6 @@
 
  - 🔭 I’m currently working on a [Churn Rate Prediction model](https://github.com/ArjunGhosh561/Customer-Churn_rate-prediction-using-Deep-Neural-Networks)
 
-- 🤝 I’m looking for help with **Spam alert system to develop a crowd-sourcing based solution**
-
 - 👨‍💻 All of my projects are available at [https://arjunghosh561.github.io/Portfolio.github.io/](https://arjunghosh561.github.io/Portfolio.github.io/)
 
 - 💬 Ask me about **C++ Language,DSA, Neural networks, React, Python, Networking**
