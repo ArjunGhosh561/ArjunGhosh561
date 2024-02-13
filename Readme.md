@@ -1,5 +1,3 @@
-[![alt text](https://github.com/ArjunGhosh561/ArjunGhosh561/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png)](https://arjunghosh561.github.io/Portfolio.github.io/)
-
 <h1 align="center">Hi 👋, I'm Arjun Kumar Ghosh</h1>
 <h3 align="center">I'm An Electronics & Communication Engineering Student With A Goal-Driven Creative Mindset And Passion For Learning And Innovating..</h3>
 
